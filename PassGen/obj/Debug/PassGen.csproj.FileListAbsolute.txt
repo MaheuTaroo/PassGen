@@ -1,0 +1,9 @@
+F:\PassGen\PassGen\bin\Debug\PassGen.exe
+F:\PassGen\PassGen\bin\Debug\PassGen.pdb
+F:\PassGen\PassGen\obj\Debug\PassGen.csprojAssemblyReference.cache
+F:\PassGen\PassGen\obj\Debug\PassGen.Form1.resources
+F:\PassGen\PassGen\obj\Debug\PassGen.Properties.Resources.resources
+F:\PassGen\PassGen\obj\Debug\PassGen.csproj.GenerateResource.cache
+F:\PassGen\PassGen\obj\Debug\PassGen.csproj.CoreCompileInputs.cache
+F:\PassGen\PassGen\obj\Debug\PassGen.exe
+F:\PassGen\PassGen\obj\Debug\PassGen.pdb
